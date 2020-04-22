@@ -10,4 +10,7 @@ The proposed approach uses K-means clustering over contextualized BERT embedding
 
 The code is available in the Colab notebook: https://colab.research.google.com/drive/14kblE89xcRzik3x4Vt0PNsCcoYGgKsYr
 
-#Usage Instructions
+## Usage Instructions
+
+The datasets can be downloaded from [here](https://competitions.codalab.org/competitions/20948#learn_the_details-data).
+If using colab notebook, the datasets should be stored in Google Drive (The Corpus texts, C1 and C2 and the traget txts).
