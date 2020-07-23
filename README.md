@@ -13,4 +13,4 @@ The code is available in the Colab notebook: https://colab.research.google.com/d
 ## Usage Instructions
 
 The datasets can be downloaded from [here](https://competitions.codalab.org/competitions/20948#learn_the_details-data).
-If using colab notebook, the datasets should be stored in Google Drive (The Corpus texts, C1 and C2 and the traget txts).
+If using colab notebook, the datasets should be stored in Google Drive (The Corpus texts, C1 and C2 and the target txts).
