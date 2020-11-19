@@ -10,6 +10,8 @@ The proposed approach uses K-means clustering over contextualized BERT embedding
 
 The code is available in the Colab notebook: https://colab.research.google.com/drive/14kblE89xcRzik3x4Vt0PNsCcoYGgKsYr
 
+Our paper is now available at https://arxiv.org/abs/2010.00857
+
 ## Usage Instructions
 
 The datasets can be downloaded from [here](https://competitions.codalab.org/competitions/20948#learn_the_details-data).
